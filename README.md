@@ -1,2 +1,1 @@
-# Fast_Food
-NATIVE ANDROID APPLICATION
+# Fast Food
