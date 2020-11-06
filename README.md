@@ -19,3 +19,4 @@ Relational schema:
 ![Schema](https://user-images.githubusercontent.com/49618856/98080652-6e4a2e80-1e7e-11eb-81ab-09a8645fce45.png)
 <br/> <br/>
 Database implementation:
+![Diagram-Model](https://user-images.githubusercontent.com/49618856/98402720-749ffc80-2070-11eb-800a-a4b1cc96986f.png)
